@@ -1,0 +1,21 @@
+1.Vercount(计数)
+"allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+
+
+2.全局TOC目录Config
+"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+单页TOC目录
+<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
+
+2.1articletoc目录
+https://blog.meekdai.com/Gmeek/plugins/articletoc.js
+
+
+3.灯箱插件
+"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+单页添加
+<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"}## -->
+
+4.多插件使用
+全局："script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+单页：<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"}## -->
