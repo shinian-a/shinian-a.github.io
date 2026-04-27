@@ -1,1 +1,7 @@
-
+java -version
+go version
+lua -v
+g++ --version
+gcc --version
+clang++ --version
+clang --version
