@@ -1,8 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-个人收款</title><link>https://shinian-a.github.io</link><description>Blog 基于GitHub技术支持</description><copyright>Blog-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-个人收款</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://shinian-a.github.io/main.png</url><title>avatar</title><link>https://shinian-a.github.io</link></image><lastBuildDate>Fri, 07 Aug 2026 23:27:50 +0000</lastBuildDate><managingEditor>Blog-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-个人收款</managingEditor><ttl>60</ttl><webMaster>Blog-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-个人收款</webMaster><item><title>V3.6版本</title><link>https://shinian-a.github.io/post/V3.6-ban-ben.html</link><description>新增修复心跳线程监听错误不自动停止，但建议服务器端国内
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-个人收款</title><link>https://shinian-a.github.io</link><description>Blog 基于GitHub技术支持</description><copyright>Blog-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-个人收款</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://shinian-a.github.io/main.png</url><title>avatar</title><link>https://shinian-a.github.io</link></image><lastBuildDate>Sat, 08 Aug 2026 03:08:38 +0000</lastBuildDate><managingEditor>Blog-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-个人收款</managingEditor><ttl>60</ttl><webMaster>Blog-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-个人收款</webMaster><item><title>V3.6版本</title><link>https://shinian-a.github.io/post/V3.6-ban-ben.html</link><description>1.新增过低版本微信登录
+2.修复sid更新失败占线
+3.修复签名错误，增加自定义回调配置回显
+4.优化细节体验，增加在线购买
+5.增强文档说明
+6.去除邮箱通知
+7.监控端完美支持任意编程语言对接支付收款
+8.支持最新版TB协议旺旺监控
+9.略微优化速度
+10.Vmq——java增加本地校验——未来预计加入易支付接口
+11.微信免费使用，旺旺COOKIE免费使用
 
-下载：https://gitee.com/shinian-a/vmq_-pro/releases/tag/v3.6
-2.https://www.123865.com/s/9pPcVv-F4eE3。</description><guid isPermaLink="true">https://shinian-a.github.io/post/V3.6-ban-ben.html</guid><pubDate>Wed, 25 Feb 2026 10:48:56 +0000</pubDate></item><item><title>软件介绍下载</title><link>https://shinian-a.github.io/post/ruan-jian-jie-shao-xia-zai.html</link><description>V免签PC端监控适用于Windows7~11使用，可安全监控微信和支付宝收款信息并回调
+下载：https://share.feijipan.com/s/XD6wleRc。</description><guid isPermaLink="true">https://shinian-a.github.io/post/V3.6-ban-ben.html</guid><pubDate>Wed, 25 Feb 2026 10:48:56 +0000</pubDate></item><item><title>软件介绍下载</title><link>https://shinian-a.github.io/post/ruan-jian-jie-shao-xia-zai.html</link><description>V免签PC端监控适用于Windows7~11使用，可安全监控微信和支付宝收款信息并回调
 
 特色：新增支付宝官方接口监控(稳定)，支持自定义回调接口配置
 
