@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</title><link>https://shinian-a.github.io</link><description>Blog 基于GitHub技术支持</description><copyright>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://shinian-a.github.io/main.png</url><title>avatar</title><link>https://shinian-a.github.io</link></image><lastBuildDate>Sun, 09 Aug 2026 10:04:31 +0000</lastBuildDate><managingEditor>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</managingEditor><ttl>60</ttl><webMaster>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</webMaster><item><title>V3.7版本</title><link>https://shinian-a.github.io/post/V3.7-ban-ben.html</link><description>2026.08.08 11:21
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</title><link>https://shinian-a.github.io</link><description>Blog 基于GitHub技术支持</description><copyright>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://shinian-a.github.io/main.png</url><title>avatar</title><link>https://shinian-a.github.io</link></image><lastBuildDate>Sun, 09 Aug 2026 14:28:51 +0000</lastBuildDate><managingEditor>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</managingEditor><ttl>60</ttl><webMaster>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</webMaster><item><title>V3.7版本</title><link>https://shinian-a.github.io/post/V3.7-ban-ben.html</link><description>2026.08.08 11:21
 
 1.新增过低版本微信登录
 2.修复sid更新失败占线
@@ -24,6 +24,8 @@
 
 **提供说明文档，监控数据日志**
 
+&gt; [!TIP]
+&gt; 任意系统软件对接-19/月
 ## 兼容V免签系统，*支持自定义对接*，如果你是开发者那么很容易使用，提供了代码示例，只需要接收监控的form请求并处理
 
 ## 主页图
@@ -37,7 +39,7 @@
 
 
 ## 自定义接口
-`Gmeek-html&lt;img src='https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEY2rhqeE4FLX-8C2SvrvGGG_-RlxqoBgACTSsAAhVdwVcwSc74UIXXCD0E.png'&gt;`
+'Gmeek-html&lt;img src='https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEY2rhqeE4FLX-8C2SvrvGGG_-RlxqoBgACTSsAAhVdwVcwSc74UIXXCD0E.png'&gt;`
 
 #### 软件更新地址 **https://share.feijipan.com/s/Pi6xAYsP**
 
