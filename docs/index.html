@@ -186,4 +186,18 @@ document.getElementById("友情链接").setAttribute("d",value=IconList["link"])
 </script>
 
 
+<!--播放器-->
+<script src="https://player.xfyun.club/js/music-player/plugin/ie-out/index.js"></script>
+<script src="https://player.xfyun.club/js/music-player/music-player.min.js"></script>
+<script src="https://player.xfyun.club/js/music-player/plugin/sakura/sakura.min.js"></script>
+<xf-music-player
+  is-monitoring="true"
+  theme="xf-original-theme"
+  is-auto-popup="true"
+  audio-visualizer="true"
+  mode="cloud"
+  api-url="https://music.api.xfyun.club/api/v1/music/top?platform=netease&topId=3778678"
+  autoplay="true"
+></xf-music-player>
+<!-- playlist 与 audioProvider 等复杂配置请使用 JavaScript、Vue 或 React 引入方式。 -->
 </html>
