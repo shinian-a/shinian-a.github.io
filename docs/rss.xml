@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</title><link>https://shinian-a.github.io</link><description>Blog 基于GitHub技术支持</description><copyright>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://shinian-a.github.io/main.png</url><title>avatar</title><link>https://shinian-a.github.io</link></image><lastBuildDate>Fri, 21 Aug 2026 23:13:50 +0000</lastBuildDate><managingEditor>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</managingEditor><ttl>60</ttl><webMaster>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</webMaster><item><title>EgoPay易支付网站</title><link>https://shinian-a.github.io/post/EgoPay-yi-zhi-fu-wang-zhan.html</link><description># EgoPay基于V免签java
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</title><link>https://shinian-a.github.io</link><description>Blog 基于GitHub技术支持</description><copyright>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://shinian-a.github.io/main.png</url><title>avatar</title><link>https://shinian-a.github.io</link></image><lastBuildDate>Fri, 18 Sep 2026 11:37:24 +0000</lastBuildDate><managingEditor>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</managingEditor><ttl>60</ttl><webMaster>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</webMaster><item><title>EgoPay易支付网站</title><link>https://shinian-a.github.io/post/EgoPay-yi-zhi-fu-wang-zhan.html</link><description># EgoPay基于V免签java
 
 ## 提供java运行环境即可使用，支持原版接口和标准V1易支付接口，后台自带回调地址和支付测试
 
@@ -19,28 +19,19 @@
 
 # [项目地址](https://github.com/shinian-a/EgoPay)
 
-`Gmeek-html&lt;iframe srcdoc='&lt;script src='https://player.xfyun.club/js/music-player/music-player.min.js'&gt;&lt;/script&gt;&lt;xf-music-player is-monitoring='true' theme='xf-original-theme' is-auto-popup='true' colorful-lyric='true' audio-visualizer='true' mode='cloud' api-url='https://music.api.xfyun.club/api/v1/music/top?platform=netease&amp;topId=3778678' autoplay='true' volume='0.3'&gt;&lt;/xf-music-player&gt;' style='border:none;width:100%;height:200px;' title='音乐播放器' sandbox='allow-scripts allow-same-origin' loading='lazy'&gt;&lt;/iframe&gt;`。</description><guid isPermaLink="true">https://shinian-a.github.io/post/EgoPay-yi-zhi-fu-wang-zhan.html</guid><pubDate>Fri, 21 Aug 2026 06:31:16 +0000</pubDate></item><item><title>V3.7版本</title><link>https://shinian-a.github.io/post/V3.7-ban-ben.html</link><description>## 仅展示最新日志
+`Gmeek-html&lt;iframe srcdoc='&lt;script src='https://player.xfyun.club/js/music-player/music-player.min.js'&gt;&lt;/script&gt;&lt;xf-music-player is-monitoring='true' theme='xf-original-theme' is-auto-popup='true' colorful-lyric='true' audio-visualizer='true' mode='cloud' api-url='https://music.api.xfyun.club/api/v1/music/top?platform=netease&amp;topId=3778678' autoplay='true' volume='0.3'&gt;&lt;/xf-music-player&gt;' style='border:none;width:100%;height:200px;' title='音乐播放器' sandbox='allow-scripts allow-same-origin' loading='lazy'&gt;&lt;/iframe&gt;`。</description><guid isPermaLink="true">https://shinian-a.github.io/post/EgoPay-yi-zhi-fu-wang-zhan.html</guid><pubDate>Fri, 21 Aug 2026 06:31:16 +0000</pubDate></item><item><title>V3.7.5版本</title><link>https://shinian-a.github.io/post/V3.7.5-ban-ben.html</link><description>## 仅展示最新日志
 
-2026.08.08 11:21
+2026.09.18 19:00
 
-1.新增过低版本微信登录
-2.修复sid更新失败占线
-3.修复签名错误，增加自定义回调配置回显
-4.优化细节体验，增加在线购买
-5.增强文档说明
-6.去除邮箱通知
-7.监控端完美支持任意编程语言对接支付收款
-8.支持最新版TB协议旺旺监控
-9.略微优化速度
-10.Vmq—java增加本地校验—未来预计加入易支付接口（已实现）
-11.微信免费使用，旺旺COOKIE免费使用
-
+1.修复会员支付宝监听不回调
+2.微信HOOK新增自定义回调门店区分（默认变量[备注]为门店名称）
+3.微信SID暂停使用，后续考虑移除
 ---
 
-### [下载最新版](https://share.feijipan.com/s/q77jDHNH)
+### [下载最新版](https://share.feijipan.com/s/Gf9n7773)
 
 `Gmeek-html&lt;iframe srcdoc='&lt;script src='https://player.xfyun.club/js/music-player/music-player.min.js'&gt;&lt;/script&gt;&lt;xf-music-player is-monitoring='true' theme='xf-original-theme' is-auto-popup='true' colorful-lyric='true' audio-visualizer='true' mode='cloud' api-url='https://music.api.xfyun.club/api/v1/music/top?platform=netease&amp;topId=3778678' autoplay='true' volume='0.3'&gt;&lt;/xf-music-player&gt;' style='border:none;width:100%;height:200px;' title='音乐播放器' sandbox='allow-scripts allow-same-origin' loading='lazy'&gt;&lt;/iframe&gt;`
-。</description><guid isPermaLink="true">https://shinian-a.github.io/post/V3.7-ban-ben.html</guid><pubDate>Wed, 25 Feb 2026 10:48:56 +0000</pubDate></item><item><title>软件介绍下载</title><link>https://shinian-a.github.io/post/ruan-jian-jie-shao-xia-zai.html</link><description># V免签PC端监控适用于Windows7~11desktop/服务器使用，可安全监控微信和支付宝收款信息并回调无风控安全风险
+。</description><guid isPermaLink="true">https://shinian-a.github.io/post/V3.7.5-ban-ben.html</guid><pubDate>Wed, 25 Feb 2026 10:48:56 +0000</pubDate></item><item><title>软件介绍下载</title><link>https://shinian-a.github.io/post/ruan-jian-jie-shao-xia-zai.html</link><description># V免签PC端监控适用于Windows7~11desktop/服务器使用，可安全监控微信和支付宝收款信息并回调无风控安全风险
 
 ### VX功能：支持个人，经营，店员，商家，赞赏码，个人扫码点单，经营扫码点单，经营开单收款监听
 ---
