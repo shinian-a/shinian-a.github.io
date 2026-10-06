@@ -129,7 +129,3 @@ chmod +x ./EgoServer-android-arm64
 > 健康检测 http://127.0.0.1:9080/health
 > 退出程序(必须运行本机执行，公网访问无效) http://127.0.0.1:9080/health?exit 
 
----
-
-
-`Gmeek-html<iframe srcdoc="<script src='https://player.xfyun.club/js/music-player/music-player.min.js'></script><xf-music-player is-monitoring='true' theme='xf-original-theme' is-auto-popup='true' colorful-lyric='true' audio-visualizer='true' mode='cloud' api-url='https://music.api.xfyun.club/api/v1/music/top?platform=netease&topId=3778678' autoplay='true' volume='0.3'></xf-music-player>" style="border:none;width:100%;height:200px;" title="音乐播放器" sandbox="allow-scripts allow-same-origin" loading="lazy"></iframe>`
