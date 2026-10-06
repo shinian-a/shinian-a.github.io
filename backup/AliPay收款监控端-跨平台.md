@@ -101,9 +101,12 @@ tail -f run.log
 - ### 右滑(音量减)打开文件管理器 进入home目录 - 右上角挂载SD卡链接
 - ### 进入挂载的sdcard目录找到你下载的文件夹 bin 长按复制到home
 - ### 最终文件的路径为： /data/user/0/home/bin/
-- ### 命令行默认 home目录 可以直接run
-- 
-### 开始运行吧（记得配置数据-config.txt alipay.properties）
+- ### 命令行默认 home目录 可以直接run 
+- #### 终端键入进入程序文件夹
+```
+cd bin
+```
+### 开始运行（记得配置数据-config.txt alipay.properties）
 ```
 chmod +x ./EgoServer-android-arm64
 ./EgoServer-android-arm64
@@ -124,7 +127,6 @@ chmod +x ./EgoServer-android-arm64
 
 
 ---
-
 
 
 `Gmeek-html<iframe srcdoc="<script src='https://player.xfyun.club/js/music-player/music-player.min.js'></script><xf-music-player is-monitoring='true' theme='xf-original-theme' is-auto-popup='true' colorful-lyric='true' audio-visualizer='true' mode='cloud' api-url='https://music.api.xfyun.club/api/v1/music/top?platform=netease&topId=3778678' autoplay='true' volume='0.3'></xf-music-player>" style="border:none;width:100%;height:200px;" title="音乐播放器" sandbox="allow-scripts allow-same-origin" loading="lazy"></iframe>`
