@@ -2,6 +2,8 @@
 
 ## 仅支持支付宝监控，仅支持[原版V免签](https://github.com/szvone/Vmq)和[EgoPay系统](https://github.com/lizhipay/acg-faka)收款回调
 
+#6 
+
 ## Windows：
 `Gmeek-html<img src="https://shinian-a.github.io/egopay_windows.png">`
 
