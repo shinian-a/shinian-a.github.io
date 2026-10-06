@@ -125,6 +125,9 @@ chmod +x ./EgoServer-android-arm64
 ### Linux后台运行
 `Gmeek-html<img src="https://shinian-a.github.io/egopay_linux2.png">`
 
+> [!TIP]
+> 健康检测 http://127.0.0.1:9080/health
+> 退出程序(必须运行本机执行，公网访问无效) http://127.0.0.1:9080/health?exit 
 
 ---
 
