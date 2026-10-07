@@ -44,7 +44,7 @@ data=监控端数据
 
 ## 3. Linux
 ```
-chmod 777 ./EgoServer-linux
+chmod 755 ./EgoServer-linux
 ```
 - [前台运行] 
 ```
