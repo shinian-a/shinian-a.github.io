@@ -9,7 +9,7 @@
 |操作系统|Windows、MacOS、Linux、Android|全平台✅
 |CPU架构|AMD64、ARM64|全架构✅
 |支付系统|[V免签](https://github.com/szvone/Vmq)、[EgoPay系统](https://github.com/shinian-a/EgoPay)|定制✅
-|已测试发卡|[acg-faka](https://github.com/lizhipay/acg-faka)|定制✅
+|已测试发卡|[异次元](https://faka.wiki/zh-cn/)、[独角Dujiao-Next](https://dujiao-next.com/)|EgoPay定制✅
 
 
 # 快速开始

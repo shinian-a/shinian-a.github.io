@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</title><link>https://shinian-a.github.io</link><description>Blog 基于GitHub技术支持</description><copyright>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://shinian-a.github.io/main.png</url><title>avatar</title><link>https://shinian-a.github.io</link></image><lastBuildDate>Tue, 06 Oct 2026 23:15:11 +0000</lastBuildDate><managingEditor>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</managingEditor><ttl>60</ttl><webMaster>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</webMaster><item><title>AliPay收款监控端-跨平台</title><link>https://shinian-a.github.io/post/AliPay-shou-kuan-jian-kong-duan---kua-ping-tai.html</link><description>&gt; EgoServer本身源自EgoPay基于V免签使用-请勿用于违法用途仅供交流学习
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</title><link>https://shinian-a.github.io</link><description>Blog 基于GitHub技术支持</description><copyright>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://shinian-a.github.io/main.png</url><title>avatar</title><link>https://shinian-a.github.io</link></image><lastBuildDate>Wed, 07 Oct 2026 15:21:53 +0000</lastBuildDate><managingEditor>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</managingEditor><ttl>60</ttl><webMaster>个人收款监控-V免签PC监控端官网-V免签官网-V免签-个人免签-码支付-易支付-安全稳定</webMaster><item><title>AliPay收款监控端-跨平台</title><link>https://shinian-a.github.io/post/AliPay-shou-kuan-jian-kong-duan---kua-ping-tai.html</link><description>&gt; EgoServer本身源自EgoPay基于V免签使用-请勿用于违法用途仅供交流学习
 
 &gt; [!TIP]
 &gt;  该软件为付费软件！
@@ -10,7 +10,7 @@
 |操作系统|Windows、MacOS、Linux、Android|全平台✅
 |CPU架构|AMD64、ARM64|全架构✅
 |支付系统|[V免签](https://github.com/szvone/Vmq)、[EgoPay系统](https://github.com/shinian-a/EgoPay)|定制✅
-|已测试发卡|[acg-faka](https://github.com/lizhipay/acg-faka)|定制✅
+|已测试发卡|[异次元](https://faka.wiki/zh-cn/)、[独角Dujiao-Next](https://dujiao-next.com/)|EgoPay定制✅
 
 
 # 快速开始
