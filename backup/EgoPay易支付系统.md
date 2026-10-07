@@ -2,7 +2,7 @@
 
 ## 提供java运行环境即可使用，支持原版接口和标准V1易支付接口，后台自带回调地址和支付测试
 
-## 支持对接发卡网：[异次元](https://github.com/lizhipay/acg-faka)
+## 支持对接发卡网：[异次元](https://github.com/lizhipay/acg-faka) 、[独角Dujiao-Next](https://dujiao-next.com/)
 
 ## 后台
 `Gmeek-html<img src="https://shinian-a.github.io/egopay_admin.png">`
