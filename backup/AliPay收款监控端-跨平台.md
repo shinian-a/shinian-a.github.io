@@ -135,3 +135,6 @@ chmod +x ./EgoServer-android-arm64
 ### [卡密解绑](https://www.t3yanzheng.com/unbound.php?B34CEA99489B022E)
 
 # [购买软件](https://kam.bbroot.com/)
+
+# 其他
+### 原版V免签PHP演示站：https://vmq.bbroot.com/
