@@ -14,7 +14,7 @@
 
 # 快速开始
 
-## **开始前先创建应用 前往：https://docs.qq.com/doc/DQ3FIeU15SkJrVEJI**
+## 开始前先创建应用 [前往](https://docs.qq.com/doc/DQ3FIeU15SkJrVEJI)
 
 ## 1. 下载软件
 <details><summary>展开</summary>
@@ -132,6 +132,6 @@ chmod +x ./EgoServer-android-arm64
 
 ---
 
-### 卡密解绑：https://www.t3yanzheng.com/unbound.php?B34CEA99489B022E
+### [卡密解绑](https://www.t3yanzheng.com/unbound.php?B34CEA99489B022E)
 
-# 购买网站：https://kam.bbroot.com/
+# [购买软件](https://kam.bbroot.com/)
