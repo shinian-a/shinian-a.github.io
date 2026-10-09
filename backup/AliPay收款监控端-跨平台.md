@@ -134,6 +134,4 @@ chmod +x ./EgoServer-android-arm64
 
 ### 卡密解绑：https://www.t3yanzheng.com/unbound.php?B34CEA99489B022E
 
-# 购买联系
-## 通过QQ：1614790395
-## 邮件：1614790395@qq.com
+# 购买网站：https://kam.bbroot.com/
