@@ -10,7 +10,7 @@
 
 **提供说明文档，监控数据日志**
 
-### 支持Windows 10/11（Win7未测试），服务端已稳定测试于Windows Server 2016/2025
+### 支持Windows 10/11（Win7未测试），服务端已稳定测试于Windows Server 2016~2025
 
 ### 支持微信 3.9.12.55，低版本自动适配
 
@@ -19,6 +19,8 @@
 > [!TIP]
 > 任意系统软件对接-30元/月
 ## 兼容V免签系统、兼容[EgoPay系统](https://github.com/shinian-a/EgoPay)，*支持自定义对接*，支持易支付v1协议及所有易支付接口，同时支持对接[异次元店铺系统](https://faka.wiki/zh-cn/)、[独角Dujiao-Next](https://dujiao-next.com/)等发卡系统；如果你是开发者那么很容易使用，提供了代码示例，只需要接收监控的form请求并处理
+
+## 推荐下载：[点击一键下载](https://example.com)（链接待更新）
 
 ## 监控端主界面
 `Gmeek-html<img src="https://img.remit.ee/i/PnQk3QPFo83t">`
@@ -65,8 +67,6 @@
 `Gmeek-html<img src="https://img.remit.ee/i/0bI1cfOEuN9p">`
 
 ---
-
-## 推荐下载 （链接待补充）
 
 v4.0.0：2026-11-28 00:18 使用更便捷，安全稳定。保存网站不迷路
 
