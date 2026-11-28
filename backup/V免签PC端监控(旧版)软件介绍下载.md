@@ -30,10 +30,10 @@
 
 ---
 
-## 推荐下载 https://share.feijipan.com/s/nEw7lXeD
+## 推荐下载：https://share.feijipan.com/s/HefdRldm
 
 ## APP https://share.feijipan.com/s/nEw7lXeD
 
-v3.7.6：2026-10-10 19:50 使用更便捷，安全稳定。保存网站不迷路
+v3.7.6-最终版EPL：2026-11-28 此版本不再发布更新，使用更便捷，安全稳定。保存网站不迷路
 
 `Gmeek-html<iframe srcdoc="<script src='https://player.xfyun.club/js/music-player/music-player.min.js'></script><xf-music-player is-monitoring='true' theme='xf-original-theme' is-auto-popup='true' colorful-lyric='true' audio-visualizer='true' mode='cloud' api-url='https://music.api.xfyun.club/api/v1/music/top?platform=netease&topId=3778678' autoplay='true' volume='0.3'></xf-music-player>" style="border:none;width:100%;height:200px;" title="音乐播放器" sandbox="allow-scripts allow-same-origin" loading="lazy"></iframe>`
