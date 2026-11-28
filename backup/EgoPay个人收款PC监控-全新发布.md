@@ -20,7 +20,7 @@
 > 任意系统软件对接-30元/月
 ## 兼容V免签系统、兼容[EgoPay系统](https://github.com/shinian-a/EgoPay)，*支持自定义对接*，支持易支付v1协议及所有易支付接口，同时支持对接[异次元店铺系统](https://faka.wiki/zh-cn/)、[独角Dujiao-Next](https://dujiao-next.com/)等发卡系统；如果你是开发者那么很容易使用，提供了代码示例，只需要接收监控的form请求并处理
 
-## 推荐下载：[点击一键下载](https://share.feijipan.com/s/U1feKqNz)
+## 推荐下载：[点击一键下载](https://share.feijipan.com/s/Evf58gOT)
 
 ## 监控端主界面
 `Gmeek-html<img src="https://img.remit.ee/i/PnQk3QPFo83t">`
